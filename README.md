@@ -1,2 +1,1 @@
-# ascardina
-geog3540/ascardina - Andrea Scardina
+# This is my repository.
